@@ -1,0 +1,1 @@
+{"giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca": "0.891074", "indri, indris, Indri indri, Indri brevicaudatus": "0.00779054", "lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens": "0.00295912", "custard apple": "0.00146577", "earthstar": "0.00117424"}
