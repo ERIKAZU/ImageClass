@@ -1,1 +1,7 @@
 Flask
+flask_uploads
+flask_wtf
+wtforms
+numpy
+tensorflow
+requests
